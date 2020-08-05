@@ -2,6 +2,8 @@
 
 ✔ This repository contains code to our research work/publication, ***[ActiveHARNet: Towards On-Device Deep Bayesian Active Learning for Human Activity Recognition](https://arxiv.org/abs/1906.00108)*** which was presented at [ACM MobiSys 2019 (3rd International Workshop on Embedded and Mobile Deep Learning, EMDL '19)](https://www.sigmobile.org/mobisys/2019/workshops/deepmobile19/).
 
+Gautham Krishna Gudur, Prahalathan Sundaramoorthy, Venkatesh Umaashankar, "ActiveHARNet: Towards On-Device Deep Bayesian Active Learning for Human Activity Recognition", ACM MobiSys 2019, 3rd International Workshop on Embedded and Mobile Deep Learning, Seoul, South Korea.
+
 ✔ Various health-care applications such as assisted living, fall detection etc., require modeling of user behavior through Human Activity Recognition (HAR). HAR using mobile- and wearable-based deep learning algorithms have been on the rise owing to the advancements in pervasive computing.
 
 ✔ However, there are two other challenges that need to be addressed: first, the deep learning model should support on-device incremental training (model updation) from real-time incoming data points to learn user behavior over time, while also being resource-friendly; second, a suitable ground truthing technique (like Active Learning) should help establish labels on-the-fly while also selecting only the most informative data points to query from an oracle.
